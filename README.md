@@ -3,6 +3,9 @@
 Generate polished, ATS-optimized resumes and cover letters tailored to any job description, and receive professional recruiter-style feedback — all in one Streamlit app powered by Langchain + Groq.
 
 ---
+## 🚀 Live Demo
+https://resume-feedback-genai-gep9tlhfcfcie4rhxmy2zg.streamlit.app/
+---
 
 ## 🚀 Features
 
